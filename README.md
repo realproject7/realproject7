@@ -1,5 +1,7 @@
 # Hi, I'm Project7
 
+<!-- GitHub profile README -->
+
 I'm a product builder working across Web3, AI agents, creator tools, and local-first software.
 
 I build things that turn new primitives into usable products: onchain publishing, tokenized communities, agent workflows, creative production tools, and lightweight consumer apps.
